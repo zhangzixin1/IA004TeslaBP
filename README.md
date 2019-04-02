@@ -18,11 +18,9 @@
 - 观察员 舟舟
 
 ## 项目详情
+- [项目分工和进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1805218260)
 - Zoom线上会议
-  - 180330 第一次会议 
-    - 主题：明确信息搜集角度和任务分工
-    - [会议纪要](Contents/Review1.md)
-    - [进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1805218260)
+  - [180330 第一次会议：明确信息搜集角度和任务分工](Contents/Review1.md)
 - [资源清单](Contents/Awesomebp.md)
 - 成果展示
   
