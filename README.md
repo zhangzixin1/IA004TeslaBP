@@ -20,8 +20,8 @@
 ## 项目详情
 - 线上会议
   - 180330 第一次Zoom会议 明确信息搜集角度和任务分工
-    - 会议纪要
-    - 分工和进度
+    - [会议纪要](Contents/Review1.md)
+    - [进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1805218260)
 - [资源清单](Contents/Awesomebp.md)
 - 成果展示
   
