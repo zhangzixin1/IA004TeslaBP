@@ -18,10 +18,12 @@
 - 观察员 舟舟
 
 ## 项目详情
-- [完成进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit?usp=sharing)（需科学上网）
 - 线上会议
   - 180328 第一次 Zoom会议 明确BP方向
+    - 会议纪要
   - 180330 第二次 Zoom会议 明确信息搜集角度和任务分工
+    - 会议纪要
+    - 分工和进度
 - [资源清单](Contents/Awesomebp.md)
 - 成果展示
   
