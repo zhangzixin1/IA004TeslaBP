@@ -45,11 +45,7 @@
 - 数据源
   - 记录财务数据的国内网站信息是经过审核的，比较靠谱
   - 分析数据时注意交叉验证
-  - 其他一些可靠的数据源
-    - [专利](www.uspto.gov)
-    - http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Tesla&FIELD1=&co1=AND&TERM2=&FIELD2=&d=PTXT
-    - http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Tesla&FIELD1=&co1=AND&TERM2=&FIELD2=&d=PTXT
-    - [财务分析](http://quotes.sina.com.cn/usstock/hq/directors.php?s=tsla)
+  - [一些可靠的数据源](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=75313932)
 
 ### 后续探索方向
   - 商业网络--了解汽车行业的发展方向（电动、智能化）和特斯拉/比亚迪/蔚来公司背后的财团，供应商。
