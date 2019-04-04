@@ -20,7 +20,8 @@
 ## 项目详情
 - [项目分工和进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1805218260)（需科学上网）
 - Zoom线上会议
-  - [180330 第一次会议：明确信息搜集角度和任务分工](Contents/Review1.md)
+  - [190330 第一次会议：明确信息搜集角度和任务分工](Contents/Review1.md)
+  - [190403 第二次会议：分享信息、讨论问题、明确深挖方向和主题](Contents/Review2.md)
 - [资源清单](Contents/Awesomebp.md)
 - 成果展示
   
