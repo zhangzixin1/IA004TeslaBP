@@ -51,11 +51,11 @@
     - http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Tesla&FIELD1=&co1=AND&TERM2=&FIELD2=&d=PTXT
     - [财务分析](http://quotes.sina.com.cn/usstock/hq/directors.php?s=tsla)
 
-### 后续探索方向：
+### 后续探索方向
   - 商业网络--了解汽车行业的发展方向（电动、智能化）和特斯拉/比亚迪/蔚来公司背后的财团，供应商。
   - 舆情分析--汽车行业和三个公司的舆情分析。
   - 公司和产品分析--蔚来/特斯拉/比亚迪的公司和产品分析
-### 协同机制：
+### 协同机制
   - github协同（仓库建设、issues讨论、存放信息）
   - Google表格（存放数据源、进度安排、项目安排）
 
