@@ -15,7 +15,6 @@
 
 ## 项目详情
 - [整体规划](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1806469220)
-- [分工进度](https://docs.google.com/spreadsheets/d/12GJ8o2PgIxonJQICZq68peQB-j2wdH3pv-suBxFVPUw/edit#gid=1805218260)
 - 线上协作
   - [190330 第一次会议：明确信息搜集角度和任务分工](Contents/Review1.md)
   - [190403 第二次会议：分享信息、讨论问题、明确深挖方向和主题](Contents/Review2.md)
